@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...12tridib34@gmail.com  
 - twitter - @12tridib34
+- Linkedin - https://www.linkedin.com/in/tridib-karmakar-9129721a3/
 
 <!---
 12tridib34/12tridib34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
